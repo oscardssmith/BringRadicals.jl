@@ -1,4 +1,6 @@
-# BringRadical
+# BringRadicals
+[![Build Status](https://travis-ci.com/oscardssmith/BringRadicals.jl.svg?branch=main)](https://travis-ci.com/oscardssmith/BringRadicals.jl)
+[![Coverage](https://codecov.io/gh/oscardssmith/BringRadicals.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/oscardssmith/BringRadicals.jl)
 
-[![Build Status](https://travis-ci.com/oscardssmith/BringRadical.jl.svg?branch=main)](https://travis-ci.com/oscardssmith/BringRadical.jl)
-[![Coverage](https://codecov.io/gh/oscardssmith/BringRadical.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/oscardssmith/BringRadical.jl)
+## Impliments Bring Radicals
+`bringrad(a)` returns the root `x` of the equation `x^5+x+a`. This is useful for solving quintic equations
